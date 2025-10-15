@@ -1,0 +1,1031 @@
+Age,Gender,Parental_Education,Ad_Exposure_Freq,Ad_Type_Celebrity,Ad_Type_Free_Toys,Ad_Type_Cartoon,Health_Knowledge,Parental_Influence,Concern_Level
+16,Male,High School,High,1,1,0,Low,Medium,High
+17,Male,PhD,Medium,1,1,0,High,Medium,High
+15,Female,Master,Low,1,1,1,High,High,High
+17,Female,High School,High,1,0,0,Low,Low,Medium
+17,Male,Master,High,0,1,0,Low,Medium,High
+14,Male,High School,Low,1,0,0,High,Medium,High
+15,Female,Bachelor,High,0,1,0,Medium,High,High
+15,Male,Master,High,1,1,1,Low,High,High
+15,Female,Master,Low,1,0,0,High,Low,High
+17,Female,PhD,High,1,1,0,High,Low,High
+16,Female,Master,Low,1,1,0,Medium,High,High
+15,Female,Master,Low,1,0,1,Medium,Medium,High
+18,Male,Bachelor,Medium,1,1,0,Medium,Medium,High
+17,Female,Master,Medium,1,1,1,Medium,Medium,High
+14,Male,Bachelor,High,0,1,0,Medium,Low,High
+16,Female,Bachelor,High,1,1,0,Low,Medium,High
+18,Male,Bachelor,Low,0,0,1,High,Medium,High
+18,Female,Bachelor,High,0,0,0,Low,High,Medium
+14,Male,High School,Low,1,1,0,Low,Medium,Medium
+16,Male,PhD,Low,1,1,0,Low,High,High
+17,Female,High School,High,1,1,1,Low,Medium,High
+13,Female,Master,Low,1,0,0,Low,Low,Medium
+16,Female,High School,Medium,1,1,1,Medium,Medium,High
+14,Female,High School,High,0,0,0,Medium,Medium,Medium
+18,Male,Master,Medium,0,0,0,High,High,High
+17,Female,Master,High,1,1,0,Low,High,High
+16,Male,Master,Low,1,1,1,High,High,High
+13,Male,High School,High,1,1,0,Medium,Medium,High
+13,Female,High School,Medium,1,1,0,Medium,Medium,High
+15,Male,Master,Low,0,1,0,Medium,Low,High
+15,Male,PhD,High,1,1,0,Low,Medium,High
+14,Male,PhD,High,1,1,0,Low,Low,High
+16,Male,Bachelor,High,0,1,1,Medium,High,High
+16,Female,Master,Medium,1,1,0,High,High,High
+18,Female,Bachelor,Medium,1,1,0,High,High,High
+18,Female,PhD,High,0,0,1,Medium,Low,High
+18,Female,Bachelor,Low,1,1,0,High,Medium,High
+15,Male,Master,Low,1,0,0,Medium,High,High
+16,Male,Master,Medium,0,1,0,High,Medium,High
+16,Female,Master,Low,1,1,1,Medium,Medium,High
+13,Female,High School,Medium,0,0,0,High,High,Medium
+15,Female,Bachelor,High,1,0,0,Low,Low,Medium
+17,Male,PhD,Medium,1,1,0,Medium,Medium,High
+15,Female,PhD,Medium,1,1,1,Medium,High,High
+17,Female,PhD,High,1,0,0,High,Medium,High
+13,Female,High School,Low,1,1,1,Medium,Medium,High
+14,Male,High School,Medium,1,1,1,Medium,Medium,High
+16,Male,Master,Medium,1,1,1,Medium,Medium,High
+13,Male,PhD,High,0,1,0,Low,Medium,High
+16,Male,High School,Low,1,1,0,Low,Low,High
+18,Male,Master,Medium,1,0,0,High,Low,High
+14,Male,PhD,High,1,1,0,Low,High,High
+14,Male,Bachelor,Medium,0,1,0,High,Low,High
+13,Male,Master,High,1,0,1,Low,Low,High
+14,Female,High School,Low,1,0,0,High,Low,High
+17,Female,High School,Low,1,0,0,Low,Medium,Medium
+14,Male,Master,Low,1,1,1,Low,Medium,High
+16,Male,Master,Low,0,1,1,High,High,High
+16,Female,High School,Medium,1,1,0,Medium,High,High
+16,Male,Bachelor,Medium,1,1,1,Medium,High,High
+16,Male,PhD,Low,0,1,0,Low,Medium,High
+17,Male,Bachelor,Low,1,0,1,High,Low,High
+15,Female,Master,Low,1,0,1,Medium,Low,High
+18,Female,Bachelor,Medium,0,1,1,High,Medium,High
+13,Female,High School,Low,1,0,1,Medium,High,High
+16,Female,Master,Low,1,1,0,High,High,High
+14,Female,PhD,Low,1,1,0,Low,High,High
+16,Male,High School,High,0,0,1,High,Medium,High
+14,Female,High School,Low,1,1,0,Medium,High,High
+18,Male,PhD,High,1,1,1,Low,High,High
+18,Male,PhD,High,1,1,0,High,Medium,High
+18,Female,Bachelor,Low,1,0,0,Medium,Low,High
+14,Female,Master,High,1,1,0,Low,Medium,High
+16,Male,PhD,Low,1,0,0,High,Medium,High
+18,Male,PhD,Medium,1,1,1,Medium,Medium,High
+17,Male,Master,Medium,1,0,1,High,Medium,High
+14,Female,PhD,Medium,1,1,1,High,Low,High
+14,Female,PhD,Medium,1,1,1,Low,High,High
+16,Female,Bachelor,High,1,1,1,Low,Medium,High
+14,Female,High School,Low,1,0,1,Medium,Low,High
+14,Female,High School,Low,1,0,0,Low,High,Medium
+18,Male,High School,Low,1,0,1,Medium,High,High
+16,Female,High School,Medium,1,0,0,High,High,High
+18,Male,PhD,Medium,1,0,0,High,Medium,High
+18,Male,Master,Low,1,1,1,Medium,Medium,High
+16,Male,Master,Medium,1,0,0,High,High,High
+13,Female,Bachelor,Low,1,0,0,Low,High,Medium
+18,Female,Bachelor,Low,0,1,0,High,High,High
+17,Female,PhD,Low,0,0,0,Low,High,Medium
+17,Male,Master,Low,1,0,1,Medium,High,High
+14,Male,Master,Low,0,0,0,Medium,High,Medium
+17,Male,High School,Low,0,1,0,High,Low,High
+14,Male,PhD,Low,1,0,0,High,High,High
+13,Male,PhD,Medium,0,1,0,Low,Medium,High
+16,Male,High School,Low,0,1,1,Low,Medium,High
+16,Female,PhD,Low,1,0,0,High,Medium,High
+16,Female,PhD,Medium,0,1,1,High,High,High
+17,Female,Bachelor,Medium,1,0,1,Medium,Medium,High
+13,Female,Master,Medium,1,0,1,Medium,Low,High
+17,Male,PhD,Low,1,1,1,Medium,High,High
+17,Male,Bachelor,High,0,1,1,High,Medium,High
+13,Female,Master,High,1,1,0,High,Low,High
+13,Male,High School,Medium,1,0,0,High,Low,High
+13,Female,Bachelor,High,1,1,0,Medium,Medium,High
+13,Female,Bachelor,Medium,1,1,1,High,Low,High
+16,Female,Master,Low,1,0,0,Low,Medium,High
+15,Male,High School,High,1,0,0,High,Low,High
+15,Female,Bachelor,Low,1,0,0,High,High,High
+13,Female,PhD,High,1,0,0,High,High,High
+15,Female,PhD,Low,1,1,0,High,High,High
+15,Male,PhD,High,1,1,1,High,High,High
+13,Male,High School,Low,0,1,0,Low,High,Medium
+15,Female,Bachelor,Low,1,0,1,Low,Medium,High
+17,Male,PhD,High,0,1,1,High,High,High
+14,Male,High School,Low,0,0,0,Medium,High,Medium
+14,Male,PhD,Low,0,0,0,High,High,High
+13,Male,Master,Low,1,0,0,High,High,High
+16,Male,Bachelor,High,1,0,0,High,Low,High
+13,Male,Bachelor,High,0,1,1,Medium,High,High
+16,Male,High School,Low,0,1,0,Medium,High,High
+14,Male,High School,Low,1,1,0,Medium,Medium,High
+13,Male,Bachelor,High,1,0,1,Low,Low,High
+18,Male,PhD,High,1,0,1,Medium,Medium,High
+17,Female,PhD,Low,1,0,1,Low,High,High
+15,Female,Master,Low,1,1,1,Low,Medium,High
+16,Male,PhD,Low,0,1,1,Medium,Medium,High
+18,Female,High School,Medium,1,1,0,Medium,High,High
+15,Female,High School,High,1,0,1,Medium,Low,High
+15,Male,PhD,Medium,0,1,0,Low,Low,High
+13,Male,High School,High,1,1,1,High,Medium,High
+15,Male,Bachelor,High,0,1,1,Medium,High,High
+17,Female,Bachelor,High,1,1,0,Medium,Medium,High
+18,Female,PhD,High,1,1,1,Medium,Medium,High
+15,Male,Bachelor,High,1,1,1,Low,Medium,High
+13,Male,Bachelor,High,1,0,0,Low,High,Medium
+17,Male,Master,High,1,1,1,High,High,High
+14,Female,Master,Medium,0,0,0,Medium,Low,Medium
+18,Female,Bachelor,Low,0,1,1,Low,High,High
+15,Female,PhD,Low,1,1,0,High,Medium,High
+13,Female,Master,Medium,1,1,1,Medium,Medium,High
+14,Male,High School,Medium,0,1,1,Low,Low,Medium
+14,Male,High School,Medium,1,1,1,Medium,High,High
+16,Male,High School,Medium,0,1,1,Medium,Medium,High
+17,Male,PhD,High,1,1,0,Low,Low,High
+15,Female,Bachelor,Low,0,1,1,Low,Low,High
+13,Female,High School,High,1,1,0,Low,Medium,Medium
+16,Male,PhD,Low,1,1,1,Medium,Medium,High
+17,Male,Master,Low,0,1,0,Medium,High,High
+16,Female,Bachelor,Medium,1,1,0,High,Low,High
+18,Male,Master,High,1,1,1,Medium,Medium,High
+17,Female,PhD,Medium,0,1,0,Low,Low,High
+17,Male,High School,High,0,0,0,Medium,High,Medium
+15,Male,High School,Low,0,0,0,High,Medium,Medium
+17,Male,PhD,Medium,0,1,0,High,High,High
+16,Male,High School,Medium,1,0,0,Low,Low,Medium
+17,Male,Bachelor,Low,1,1,0,Low,High,High
+15,Male,PhD,Low,1,1,0,High,High,High
+15,Male,Master,Low,0,1,0,High,Low,High
+18,Female,PhD,Medium,0,1,1,High,High,High
+16,Female,Bachelor,High,0,1,0,Low,Low,Medium
+14,Female,Bachelor,Medium,1,1,1,High,Medium,High
+14,Female,PhD,High,1,1,1,High,Low,High
+17,Female,PhD,Medium,0,0,0,Low,Low,Medium
+18,Male,High School,Medium,1,1,1,Medium,Medium,High
+13,Male,Bachelor,Low,1,0,1,Medium,Low,High
+17,Female,PhD,High,1,1,1,High,Medium,High
+18,Male,PhD,Medium,1,1,1,Medium,Medium,High
+16,Female,Bachelor,Medium,1,0,0,Medium,Low,High
+16,Female,PhD,Low,1,1,1,Medium,High,High
+16,Male,High School,Low,1,1,1,Medium,High,High
+16,Male,Bachelor,High,1,0,1,High,Medium,High
+16,Male,High School,Medium,0,1,0,Medium,High,High
+18,Female,High School,High,1,0,1,Medium,High,High
+18,Male,High School,Medium,0,0,1,Low,Low,Medium
+15,Female,High School,High,1,1,0,High,Medium,High
+14,Female,Bachelor,Low,0,1,0,Low,Medium,Medium
+16,Female,High School,Medium,1,1,0,Low,Low,High
+13,Male,High School,High,1,1,1,High,High,High
+18,Male,PhD,Low,1,1,1,Medium,Medium,High
+13,Female,Bachelor,Low,0,1,1,Low,High,High
+13,Male,Bachelor,High,1,0,0,High,Medium,High
+13,Male,Master,Medium,1,0,1,Medium,Medium,High
+15,Male,Bachelor,Medium,1,0,0,High,Medium,High
+18,Female,Bachelor,Low,0,0,0,Low,Medium,Medium
+13,Female,Master,Medium,1,1,1,Medium,High,High
+16,Male,Bachelor,Medium,0,0,1,Medium,High,High
+17,Female,Bachelor,Medium,0,0,1,High,High,High
+13,Male,Bachelor,Low,1,0,1,Medium,High,High
+15,Male,Bachelor,High,1,1,0,Low,Low,High
+18,Male,Master,Medium,1,1,0,Low,Medium,High
+15,Male,Bachelor,Low,1,1,1,Low,Medium,High
+13,Female,Bachelor,Low,1,1,1,High,Medium,High
+18,Female,Master,High,1,1,0,Medium,Low,High
+17,Female,PhD,Medium,1,1,0,Medium,High,High
+13,Male,High School,Medium,1,0,0,Medium,Medium,Medium
+15,Male,PhD,High,0,1,1,Low,High,High
+14,Male,Master,High,1,1,0,Medium,High,High
+16,Female,High School,Low,1,1,0,Low,Low,High
+15,Male,Master,Low,0,1,0,Medium,Low,High
+18,Female,Master,High,1,1,0,Low,High,High
+13,Female,Bachelor,Medium,1,1,1,Medium,Medium,High
+16,Female,High School,Low,1,1,0,High,Medium,High
+13,Female,Bachelor,Low,1,0,1,High,Low,High
+18,Female,High School,Medium,1,1,1,Low,Low,High
+13,Female,Master,Low,1,1,1,Low,Low,High
+14,Male,Master,Medium,1,1,0,Medium,Low,High
+16,Male,PhD,Medium,1,1,1,Medium,Low,High
+16,Female,High School,Medium,1,0,1,High,Low,High
+18,Female,Bachelor,High,0,1,1,Medium,Low,High
+14,Male,PhD,High,0,0,1,Low,Medium,High
+15,Female,PhD,High,1,1,0,Low,Low,High
+13,Female,PhD,Medium,1,1,0,Low,Low,High
+17,Male,Bachelor,Medium,1,1,0,Low,Medium,High
+13,Female,PhD,High,1,0,1,Low,Medium,High
+13,Female,Bachelor,Low,0,1,0,High,High,High
+15,Female,PhD,Medium,0,0,0,High,Low,High
+13,Male,Bachelor,Low,1,1,0,Low,Low,High
+14,Male,Master,Low,0,1,0,Medium,Low,High
+14,Male,Master,Medium,0,1,0,Low,Low,Medium
+16,Female,Master,Medium,0,1,0,High,High,High
+18,Female,Master,Low,1,1,0,Low,Medium,High
+17,Male,Master,Low,1,0,0,High,Medium,High
+13,Female,PhD,High,0,0,0,High,Low,High
+13,Female,PhD,High,1,1,0,Low,Low,High
+15,Female,PhD,Medium,1,1,1,Low,Low,High
+18,Female,Bachelor,High,1,1,1,Medium,High,High
+14,Female,Bachelor,High,0,0,0,High,High,High
+17,Male,Bachelor,High,1,1,0,Medium,Medium,High
+16,Female,Bachelor,High,1,1,1,Low,Low,High
+14,Male,Master,Low,1,1,1,High,Low,High
+18,Female,Master,Medium,1,0,1,Medium,Low,High
+16,Male,Master,High,0,0,1,Medium,Low,High
+15,Female,High School,Low,1,1,0,Medium,High,High
+15,Male,PhD,Low,1,1,0,Low,Medium,High
+13,Female,Bachelor,Low,0,0,0,Low,Medium,Low
+18,Male,Bachelor,High,1,1,1,Low,High,High
+17,Female,Master,High,0,1,1,High,Low,High
+16,Male,Bachelor,Medium,1,1,1,Low,Medium,High
+14,Female,Bachelor,High,1,1,0,High,Medium,High
+18,Male,PhD,High,1,0,1,Medium,High,High
+18,Male,Master,Low,1,0,0,Medium,Low,High
+15,Female,PhD,Medium,1,1,0,Low,Medium,High
+13,Female,High School,High,1,1,0,Medium,Low,High
+13,Male,High School,High,1,0,1,Low,Medium,Medium
+16,Female,High School,Low,1,0,0,High,High,High
+15,Male,Master,Low,1,1,1,Medium,Low,High
+18,Male,Bachelor,High,0,0,0,Low,High,Medium
+17,Male,Master,Medium,1,0,1,Medium,Medium,High
+15,Female,Master,Medium,1,0,1,Medium,High,High
+16,Male,Bachelor,Low,0,0,0,Low,High,Medium
+16,Male,PhD,Low,1,1,1,Medium,High,High
+15,Female,High School,High,1,1,1,Medium,Medium,High
+16,Female,PhD,Low,0,1,1,Medium,Low,High
+15,Female,High School,High,1,0,1,Medium,High,High
+14,Female,Master,Medium,1,0,1,High,Low,High
+15,Male,High School,Medium,1,1,0,Medium,Medium,High
+15,Male,Master,High,0,1,1,Medium,Low,High
+16,Male,PhD,Low,0,1,0,Low,High,High
+16,Male,Master,Medium,1,0,0,High,High,High
+13,Female,PhD,Low,1,1,0,Low,High,High
+13,Male,Bachelor,Medium,1,0,1,Low,High,High
+14,Male,Bachelor,High,1,1,1,Low,High,High
+13,Female,Bachelor,High,0,1,0,High,High,High
+15,Male,Master,High,1,1,1,Low,Medium,High
+16,Male,Bachelor,Medium,0,0,1,Low,Medium,Medium
+13,Male,High School,Low,1,1,0,Low,Medium,Medium
+13,Male,PhD,Low,1,1,0,Medium,Low,High
+14,Male,PhD,Low,1,0,1,Low,Low,High
+18,Male,High School,Medium,1,0,0,High,Medium,High
+14,Female,Master,Medium,0,0,1,High,Low,High
+15,Female,Master,Medium,1,1,0,Medium,Low,High
+16,Male,PhD,Medium,1,0,0,High,High,High
+14,Male,Bachelor,Medium,1,1,1,High,High,High
+13,Female,Master,Low,0,1,1,Medium,Low,High
+16,Male,Master,Medium,1,1,1,Low,Low,High
+16,Male,High School,Medium,1,1,1,Medium,Medium,High
+13,Male,High School,Low,0,1,1,Low,Low,Medium
+14,Female,Bachelor,Medium,1,0,1,Low,High,High
+13,Male,Master,Low,1,0,0,High,Low,High
+18,Female,Master,Low,1,0,1,Medium,Medium,High
+16,Male,High School,High,0,1,0,High,High,High
+17,Female,Master,High,0,0,1,High,High,High
+17,Female,PhD,High,0,0,0,Low,High,Medium
+15,Male,High School,High,1,1,1,High,High,High
+13,Female,Bachelor,Medium,1,1,0,Medium,Low,High
+13,Male,High School,High,0,0,1,High,Medium,High
+15,Female,Master,Low,1,0,1,High,Low,High
+15,Male,Bachelor,Medium,1,0,0,Low,Low,Medium
+15,Male,High School,High,0,1,1,Medium,High,High
+16,Female,PhD,Low,1,1,0,High,Medium,High
+18,Male,PhD,Medium,1,0,1,Low,High,High
+13,Male,High School,Medium,1,0,1,High,Low,High
+16,Female,PhD,High,1,0,0,Medium,Low,High
+15,Male,PhD,Medium,0,0,1,High,High,High
+13,Male,PhD,Low,1,1,0,High,Low,High
+16,Female,Bachelor,Medium,1,1,0,Low,Low,High
+18,Female,PhD,Low,1,1,1,High,High,High
+16,Male,PhD,Medium,1,1,0,Low,Low,High
+18,Male,PhD,High,1,0,1,Medium,Medium,High
+15,Female,Bachelor,Low,1,1,1,High,High,High
+18,Female,High School,Medium,1,1,0,Medium,Medium,High
+13,Male,Master,Medium,1,0,1,Medium,Low,High
+15,Female,PhD,Medium,1,1,0,High,Low,High
+13,Male,High School,Low,1,0,0,Low,High,Medium
+17,Male,PhD,Low,0,0,0,Medium,Low,High
+14,Male,Bachelor,Low,0,0,0,Medium,High,Medium
+18,Male,High School,High,0,1,0,High,High,High
+14,Male,Bachelor,High,1,1,0,High,High,High
+14,Female,PhD,Low,1,1,1,High,High,High
+18,Female,PhD,Medium,1,1,1,High,High,High
+15,Female,Bachelor,High,1,1,1,High,Medium,High
+17,Female,Master,Low,1,1,1,High,High,High
+13,Male,Bachelor,Medium,0,0,1,Low,Medium,Medium
+16,Male,PhD,High,1,1,0,Medium,Low,High
+13,Male,Bachelor,Medium,1,0,1,Low,High,High
+16,Male,Master,Medium,1,1,1,Low,Low,High
+13,Female,Bachelor,Medium,0,1,0,High,High,High
+18,Male,Master,Medium,1,0,1,Medium,Medium,High
+17,Male,Master,High,1,1,1,Low,Medium,High
+16,Female,Bachelor,High,1,1,1,High,Medium,High
+15,Female,Bachelor,High,1,1,1,High,Low,High
+13,Female,High School,Low,1,0,0,Medium,High,Medium
+13,Female,PhD,High,0,0,0,Low,Low,Medium
+16,Male,Master,Medium,1,0,0,Low,Medium,High
+15,Male,High School,High,1,0,1,Low,Low,Medium
+15,Female,Bachelor,Medium,1,0,0,High,Medium,High
+18,Male,PhD,Low,1,1,1,Medium,Medium,High
+18,Male,High School,Medium,1,0,0,Medium,Medium,High
+18,Male,Master,Medium,0,1,0,Low,High,High
+18,Female,High School,Medium,1,1,0,High,High,High
+18,Male,Master,Low,1,1,1,Low,Medium,High
+18,Female,Bachelor,High,1,1,0,Medium,Low,High
+17,Male,PhD,High,0,1,0,High,Low,High
+15,Male,PhD,Low,1,1,0,Low,High,High
+18,Male,PhD,Medium,1,0,0,Low,Medium,High
+15,Female,Bachelor,High,1,0,0,High,Low,High
+15,Male,Master,Low,1,1,1,Medium,Medium,High
+14,Female,Bachelor,High,1,0,1,High,Low,High
+17,Female,PhD,Low,1,0,0,Low,High,High
+18,Female,Bachelor,Medium,0,0,1,Low,Medium,Medium
+13,Male,Bachelor,High,1,0,1,Low,Medium,High
+16,Male,Bachelor,Low,1,1,1,Low,Low,High
+13,Male,Master,High,1,0,1,Medium,Low,High
+17,Male,High School,High,1,1,1,Medium,Low,High
+16,Female,High School,High,0,1,1,Low,Medium,High
+17,Female,Bachelor,High,0,1,1,Medium,High,High
+15,Female,High School,Low,1,1,0,Medium,High,High
+16,Male,High School,Medium,1,1,1,Medium,Low,High
+15,Female,Bachelor,Low,1,0,1,Low,High,High
+13,Male,Bachelor,Low,1,1,0,High,Low,High
+13,Female,PhD,Low,1,1,0,High,High,High
+16,Male,High School,Medium,1,1,1,High,Medium,High
+16,Male,Master,High,1,1,1,Low,Low,High
+18,Female,Bachelor,High,1,0,0,Medium,High,High
+17,Female,PhD,High,1,1,1,Medium,Medium,High
+18,Female,Master,Medium,1,1,0,Low,High,High
+17,Female,High School,High,0,0,0,Low,Medium,Low
+18,Male,PhD,Medium,1,1,1,High,Medium,High
+15,Female,Bachelor,High,1,0,0,High,High,High
+16,Female,Master,High,1,0,0,Low,High,High
+13,Female,Bachelor,Low,1,0,1,High,Medium,High
+17,Male,High School,Medium,1,0,0,Medium,Medium,High
+17,Male,Master,Low,1,1,0,Low,Medium,High
+13,Female,High School,Low,0,0,1,Low,Low,Medium
+18,Male,High School,Low,1,1,1,Medium,Medium,High
+17,Female,PhD,Medium,1,1,1,Medium,Low,High
+15,Male,Bachelor,Medium,1,0,1,Medium,Medium,High
+16,Male,Master,High,1,1,0,High,Low,High
+13,Male,High School,Low,0,1,1,Low,Medium,Medium
+16,Male,High School,High,1,1,1,High,Medium,High
+17,Female,Master,Low,1,0,1,Medium,Medium,High
+17,Female,High School,Medium,1,1,1,High,High,High
+13,Female,PhD,Medium,1,1,1,Medium,High,High
+15,Male,PhD,Medium,1,0,0,High,Medium,High
+14,Female,PhD,Low,0,0,0,High,Low,High
+13,Female,PhD,Medium,1,1,1,Medium,Low,High
+14,Female,High School,Low,1,0,1,High,Medium,High
+18,Male,Master,High,0,1,1,Low,High,High
+14,Male,Master,Low,0,0,0,High,Low,High
+15,Male,Master,High,0,1,1,High,High,High
+18,Female,Master,Low,0,1,1,Low,Low,High
+14,Female,Bachelor,High,1,0,1,Medium,Medium,High
+18,Female,Master,Medium,1,0,1,Low,High,High
+14,Male,Bachelor,High,1,1,1,High,Low,High
+15,Male,Bachelor,Medium,1,1,1,Medium,Medium,High
+14,Female,PhD,Medium,1,1,1,High,Medium,High
+14,Male,Bachelor,High,1,0,1,High,Medium,High
+14,Male,High School,Low,1,0,1,Low,High,Medium
+13,Male,Bachelor,Low,1,0,1,Low,High,High
+13,Male,PhD,Low,1,1,1,Medium,Medium,High
+13,Female,Bachelor,Low,1,0,1,Medium,High,High
+15,Male,High School,Low,1,1,1,Medium,Low,High
+18,Male,High School,Medium,0,1,0,High,Medium,High
+17,Male,High School,Low,1,1,0,Low,Medium,High
+14,Male,PhD,Medium,1,0,1,Low,High,High
+14,Female,PhD,Medium,1,0,1,Low,Medium,High
+15,Female,Master,Medium,1,1,1,Medium,Low,High
+14,Male,PhD,High,1,1,1,Low,High,High
+13,Male,High School,High,1,0,1,Low,High,Medium
+17,Male,High School,Medium,1,1,1,Low,Medium,High
+16,Male,PhD,High,1,1,1,Medium,Medium,High
+14,Male,Bachelor,Low,1,0,1,Low,Medium,High
+13,Male,PhD,Low,1,0,0,Medium,High,High
+16,Female,PhD,Medium,1,1,0,Low,Medium,High
+17,Male,High School,Low,0,1,0,Low,Low,Medium
+16,Female,Master,Medium,1,0,0,Low,Medium,High
+13,Female,High School,Medium,0,1,1,Medium,Medium,High
+18,Male,Master,Low,1,1,0,Medium,High,High
+18,Female,High School,High,1,0,0,Low,Medium,Medium
+16,Female,PhD,Low,0,1,0,High,High,High
+15,Female,High School,Low,0,1,0,Medium,Medium,Medium
+16,Female,High School,Medium,1,0,1,Medium,Low,High
+14,Female,High School,Medium,1,0,1,Low,Low,Medium
+14,Female,PhD,Medium,0,1,1,High,High,High
+18,Male,PhD,Medium,1,1,0,Low,High,High
+15,Female,PhD,High,0,1,0,Medium,Medium,High
+13,Female,PhD,High,1,1,0,Medium,Medium,High
+14,Female,Master,High,1,1,1,Low,Low,High
+18,Male,Master,Medium,1,1,0,Low,Medium,High
+17,Female,Bachelor,Medium,1,1,1,High,Low,High
+18,Male,PhD,Medium,1,0,0,High,High,High
+14,Female,Master,High,1,0,1,Medium,Medium,High
+14,Male,High School,Medium,0,0,0,High,High,Medium
+18,Male,PhD,Low,0,1,0,High,Medium,High
+13,Female,Bachelor,Low,0,0,1,Medium,Low,High
+16,Female,Bachelor,Medium,1,1,0,Medium,High,High
+14,Male,Bachelor,Low,0,0,0,Medium,High,Medium
+18,Female,High School,Low,1,0,1,Medium,Medium,High
+18,Male,Master,High,1,1,1,Low,High,High
+15,Male,High School,Medium,1,1,1,Medium,Low,High
+16,Male,PhD,Medium,1,0,0,Medium,High,High
+17,Male,Bachelor,High,1,0,0,Medium,High,High
+13,Male,High School,Low,1,1,0,High,Medium,High
+17,Female,High School,Low,1,0,0,Medium,High,High
+16,Male,Master,Medium,1,0,1,Low,Medium,High
+16,Male,Master,Low,1,1,1,Low,Medium,High
+16,Female,Bachelor,High,0,0,0,Medium,High,Medium
+17,Male,High School,High,1,1,1,Low,Low,High
+16,Female,High School,Medium,1,0,0,High,Medium,High
+18,Female,Master,High,0,0,1,Medium,High,High
+17,Female,High School,High,1,0,0,Low,Medium,Medium
+16,Male,High School,Medium,0,0,0,Low,Low,Low
+18,Male,High School,High,1,0,1,Medium,Low,High
+15,Male,Master,High,0,0,1,Low,Medium,Medium
+16,Female,Bachelor,High,1,1,1,Medium,Low,High
+17,Male,PhD,Low,1,0,0,Low,High,High
+14,Female,Bachelor,Medium,1,1,0,High,High,High
+16,Male,PhD,Medium,1,1,0,Low,Medium,High
+14,Female,High School,Medium,1,1,0,Low,Low,Medium
+18,Male,Bachelor,Low,1,0,1,Medium,High,High
+15,Male,PhD,Low,0,1,0,Low,High,High
+13,Male,Master,Medium,1,0,0,Medium,High,High
+15,Female,Master,Low,1,0,1,High,Medium,High
+16,Female,Bachelor,Medium,1,1,0,Medium,Medium,High
+14,Male,Bachelor,Low,1,1,1,Medium,High,High
+14,Male,High School,High,1,1,1,Low,High,High
+17,Female,Bachelor,High,1,0,0,High,Low,High
+14,Female,High School,Medium,1,1,1,Medium,Low,High
+17,Female,High School,Low,1,0,1,Low,Low,High
+18,Male,Master,Low,0,1,0,Low,Medium,High
+13,Female,Master,High,0,0,0,Medium,High,Medium
+16,Male,PhD,High,0,1,0,Low,Medium,High
+17,Female,Master,Low,1,1,1,Medium,High,High
+13,Male,Master,Low,0,1,1,Medium,Low,High
+14,Female,Bachelor,Low,1,1,1,Medium,Low,High
+14,Female,Master,Low,1,1,1,High,Low,High
+13,Female,PhD,Low,0,0,1,Medium,Low,High
+14,Female,Bachelor,Low,1,0,1,Low,High,High
+18,Female,PhD,Medium,1,0,0,High,Low,High
+18,Male,Master,Low,0,1,1,Low,High,High
+13,Female,PhD,High,1,1,0,High,High,High
+17,Female,Bachelor,Medium,0,1,1,High,Medium,High
+17,Female,High School,Low,1,0,0,High,Low,High
+13,Male,PhD,High,1,0,0,High,Low,High
+17,Female,PhD,Medium,1,1,0,Low,Medium,High
+17,Male,Bachelor,High,1,1,0,Medium,High,High
+18,Female,Bachelor,Low,1,1,1,Low,Low,High
+17,Female,PhD,Low,1,1,0,Medium,High,High
+15,Male,Master,Low,0,0,1,Low,Medium,Medium
+16,Female,PhD,Low,0,1,0,High,High,High
+14,Male,Bachelor,Medium,1,1,1,High,Low,High
+15,Male,High School,Medium,1,0,0,Medium,High,Medium
+17,Female,High School,High,1,0,0,Medium,High,High
+18,Male,Master,Low,1,0,1,Low,Low,High
+13,Female,PhD,High,1,1,0,Medium,Low,High
+17,Female,High School,Medium,0,1,0,Low,High,Medium
+18,Male,PhD,Low,1,1,0,Medium,High,High
+16,Male,Bachelor,Low,1,1,0,Medium,Medium,High
+17,Male,High School,Medium,0,1,1,Medium,Low,High
+13,Male,Master,Medium,0,0,0,High,High,High
+18,Female,Bachelor,Medium,0,1,1,High,Low,High
+18,Female,Master,Medium,1,1,1,Low,Medium,High
+18,Male,Bachelor,Medium,1,1,0,Medium,High,High
+16,Female,High School,Low,0,1,1,Low,High,High
+17,Female,Master,Medium,0,1,1,Medium,High,High
+16,Female,Master,Low,1,0,1,High,Low,High
+14,Female,Bachelor,Low,1,1,1,High,Medium,High
+14,Male,Master,Medium,1,0,1,Medium,Low,High
+17,Male,Bachelor,Medium,1,0,1,Medium,High,High
+16,Female,Bachelor,Low,1,0,0,High,Medium,High
+13,Male,Bachelor,Medium,1,0,0,High,High,High
+18,Male,Bachelor,Medium,1,0,0,Low,High,Medium
+18,Male,High School,Medium,1,1,0,High,Low,High
+17,Female,Bachelor,High,0,1,0,Medium,High,High
+14,Female,PhD,Low,0,0,0,Low,Medium,Medium
+14,Female,Master,High,0,0,0,Medium,High,Medium
+18,Male,PhD,Medium,1,0,1,Low,High,High
+17,Female,High School,High,1,0,1,Medium,Low,High
+16,Female,PhD,Medium,1,0,1,High,Medium,High
+14,Male,Master,High,0,1,0,Medium,Low,High
+16,Female,PhD,Medium,1,0,1,Low,High,High
+14,Female,High School,High,1,1,1,Medium,Low,High
+14,Male,Bachelor,High,0,0,0,Low,Low,Low
+15,Male,PhD,High,1,1,0,Medium,Low,High
+14,Male,High School,Low,1,1,1,High,Low,High
+13,Female,High School,High,1,1,1,High,High,High
+17,Female,Master,Low,0,1,0,Medium,High,High
+17,Female,Master,Medium,0,0,0,Medium,Medium,High
+16,Male,PhD,High,1,0,0,Medium,Low,High
+14,Male,Bachelor,Medium,0,1,1,Low,Low,High
+13,Female,High School,Medium,1,0,1,Medium,Medium,High
+16,Female,PhD,High,1,1,0,Medium,Low,High
+15,Male,High School,Low,1,0,0,Low,Medium,Medium
+16,Male,High School,High,1,0,1,High,High,High
+16,Male,Bachelor,Medium,1,1,1,Medium,Medium,High
+14,Male,Bachelor,Medium,0,1,0,Medium,Low,High
+15,Female,PhD,High,1,1,1,High,Medium,High
+16,Male,Bachelor,Low,1,0,0,High,High,High
+13,Female,Bachelor,Low,1,1,0,Low,Low,High
+13,Female,PhD,Medium,0,0,1,Medium,High,High
+17,Female,Bachelor,Medium,1,0,0,Medium,High,High
+15,Male,Master,Low,1,1,1,Low,Medium,High
+15,Male,High School,High,0,0,1,High,High,High
+17,Male,High School,Medium,0,0,1,Low,Low,Medium
+16,Male,High School,Low,0,0,0,High,High,High
+15,Female,High School,Medium,1,0,0,Low,High,Medium
+13,Male,PhD,High,0,0,0,High,Medium,High
+13,Male,High School,Low,0,0,1,Low,High,Medium
+14,Female,High School,Medium,1,0,1,High,Medium,High
+15,Male,High School,High,1,0,1,High,Medium,High
+16,Female,High School,Medium,0,1,1,High,Low,High
+17,Female,Master,High,0,0,1,High,Low,High
+17,Female,High School,High,0,0,1,High,Low,High
+16,Female,Master,Low,0,0,0,Medium,Low,High
+18,Female,PhD,High,1,1,0,High,Medium,High
+14,Female,Bachelor,Medium,0,1,1,Medium,High,High
+17,Female,High School,High,0,1,0,High,Low,High
+15,Female,Bachelor,High,1,1,0,Medium,Low,High
+14,Male,Bachelor,Low,1,1,1,Medium,Low,High
+15,Male,PhD,High,1,1,1,Low,High,High
+13,Male,Bachelor,High,1,1,0,High,Low,High
+14,Male,Master,Medium,1,0,1,Low,High,High
+17,Female,Bachelor,Low,1,0,1,Low,Medium,High
+14,Male,Bachelor,Low,1,0,0,High,Medium,High
+14,Female,Bachelor,Low,1,1,0,Low,Medium,High
+14,Male,High School,High,1,1,0,High,High,High
+18,Male,High School,Low,0,1,1,Low,Low,High
+14,Male,Master,High,1,0,1,High,Low,High
+15,Female,Master,High,0,1,1,High,Low,High
+13,Male,High School,Medium,1,0,1,High,Low,High
+16,Female,Master,Medium,1,0,0,Medium,Low,High
+14,Female,High School,Medium,1,1,0,Low,High,Medium
+17,Male,PhD,Medium,0,1,1,Medium,Medium,High
+14,Male,Bachelor,Medium,1,0,0,Low,Low,Medium
+17,Male,Bachelor,High,1,1,0,Low,Medium,High
+15,Female,Master,High,1,0,0,Low,High,Medium
+17,Male,High School,Low,1,1,0,Medium,High,High
+16,Female,High School,High,1,0,0,Low,Low,Medium
+13,Female,Master,High,1,0,0,Medium,High,High
+17,Male,High School,Medium,1,0,0,High,Medium,High
+17,Male,PhD,High,1,0,0,Low,Low,High
+13,Female,Bachelor,Medium,0,0,1,Low,Low,Medium
+16,Female,Master,Low,1,1,1,High,Medium,High
+14,Female,Master,Low,1,1,0,High,Low,High
+17,Male,High School,High,1,1,1,Low,Low,High
+13,Female,Master,Low,0,0,0,High,Medium,High
+15,Male,PhD,High,1,1,1,Medium,Low,High
+13,Female,High School,Low,1,0,1,Medium,Low,High
+15,Female,High School,Medium,1,0,1,Low,Medium,Medium
+16,Male,High School,Medium,1,1,1,Medium,High,High
+14,Female,High School,Medium,1,1,0,Medium,Medium,High
+13,Male,PhD,Medium,1,0,0,Low,Low,High
+18,Male,High School,High,1,0,1,High,Medium,High
+17,Female,Master,Low,0,1,0,Low,Low,High
+16,Male,PhD,High,1,0,0,Medium,Low,High
+13,Male,Bachelor,Medium,1,1,1,Low,Medium,High
+17,Female,Bachelor,High,1,1,1,Low,Low,High
+13,Male,Master,Low,1,0,1,Medium,High,High
+15,Male,Master,High,1,0,0,Medium,Low,High
+13,Male,PhD,Low,0,0,1,Low,Medium,High
+18,Female,Bachelor,High,0,1,0,Medium,High,High
+13,Male,Bachelor,Low,0,1,0,Medium,High,High
+13,Female,Bachelor,Low,0,1,1,Medium,Low,High
+18,Female,Bachelor,Medium,1,1,0,Medium,Medium,High
+16,Male,Bachelor,Low,0,1,0,Medium,Low,High
+13,Male,High School,Medium,1,1,1,Medium,Low,High
+18,Male,Master,Medium,1,1,0,High,Medium,High
+17,Female,High School,Medium,1,1,0,Low,Medium,High
+15,Male,Bachelor,High,1,1,0,Medium,Low,High
+15,Male,PhD,High,1,1,0,Low,High,High
+13,Male,PhD,High,0,1,0,High,Low,High
+16,Male,Bachelor,High,1,0,1,Medium,High,High
+16,Male,Bachelor,Low,0,1,1,Low,Low,High
+17,Female,PhD,Low,1,0,0,Medium,Medium,High
+13,Female,High School,High,1,0,1,Medium,High,High
+15,Male,High School,Low,0,0,0,Medium,Medium,Medium
+16,Male,Bachelor,Low,0,1,0,Medium,Medium,High
+13,Male,High School,Medium,1,1,1,Medium,Medium,High
+16,Male,PhD,Medium,1,0,0,Medium,Medium,High
+18,Female,High School,Medium,1,1,1,Medium,Medium,High
+16,Male,Bachelor,Medium,1,1,0,High,Low,High
+15,Female,PhD,Low,0,0,1,High,High,High
+14,Female,High School,High,1,1,0,Medium,Low,High
+17,Male,Master,Low,1,1,0,Medium,Low,High
+17,Female,PhD,Low,1,1,0,High,Low,High
+15,Female,PhD,Low,1,1,1,High,Medium,High
+16,Female,Master,Medium,1,1,1,High,Low,High
+13,Female,Master,Medium,1,0,1,Medium,High,High
+16,Male,PhD,Medium,1,0,0,Low,Low,High
+15,Male,Master,High,0,0,0,Low,Medium,Medium
+17,Female,Bachelor,Low,1,1,0,Low,High,High
+16,Male,Bachelor,High,1,0,1,Low,High,High
+17,Male,Bachelor,Medium,0,0,1,Medium,High,High
+13,Male,PhD,High,1,1,0,Low,High,High
+17,Male,Master,Low,1,1,1,High,Low,High
+17,Male,Master,Low,1,1,0,High,Medium,High
+14,Female,High School,Medium,0,0,1,Low,High,Medium
+14,Male,High School,Medium,1,0,1,High,High,High
+18,Male,Master,High,0,0,0,Medium,Medium,High
+14,Male,Master,Medium,1,0,0,Low,Low,Medium
+17,Male,Master,Medium,0,0,1,Low,High,High
+15,Female,PhD,Low,1,1,1,Medium,Low,High
+17,Female,Master,Medium,1,1,1,High,Low,High
+15,Female,High School,Medium,1,0,1,Medium,Low,High
+15,Female,PhD,Low,1,1,0,Medium,Low,High
+14,Male,Master,Low,1,1,1,High,High,High
+16,Female,High School,High,1,0,1,Medium,High,High
+13,Male,PhD,Medium,0,1,1,High,Low,High
+14,Male,Master,Low,1,0,0,High,Low,High
+14,Male,Master,High,0,0,0,Medium,Medium,Medium
+16,Male,Master,High,1,1,0,High,Medium,High
+13,Male,PhD,Medium,0,0,0,Medium,Medium,High
+17,Female,High School,Medium,1,1,0,High,High,High
+18,Female,High School,High,1,0,0,Low,Medium,Medium
+18,Female,Bachelor,Low,1,1,0,High,High,High
+17,Female,Master,High,0,1,0,High,High,High
+14,Male,Bachelor,Medium,1,0,1,Medium,High,High
+13,Female,Bachelor,Low,1,0,0,High,High,High
+14,Male,High School,Low,1,1,0,Low,Medium,Medium
+15,Female,PhD,High,1,1,0,Low,Low,High
+14,Male,PhD,Medium,1,1,0,High,Low,High
+14,Male,High School,High,1,1,1,High,Low,High
+17,Female,PhD,High,1,1,0,Low,Medium,High
+17,Male,Bachelor,High,1,1,1,Medium,Low,High
+17,Male,Master,Low,1,1,1,Low,Medium,High
+18,Female,High School,Low,0,1,1,Low,Medium,High
+15,Male,Master,Medium,0,1,1,High,Medium,High
+17,Female,PhD,Medium,0,1,1,High,Low,High
+13,Female,Master,High,0,0,1,Low,Low,Medium
+18,Female,PhD,High,1,1,0,Medium,Low,High
+16,Male,PhD,High,1,1,0,Low,High,High
+13,Male,Bachelor,Medium,0,0,1,Low,Medium,Medium
+13,Male,PhD,Low,1,0,0,Medium,High,High
+17,Female,Bachelor,Low,0,0,0,Low,Medium,Medium
+16,Male,Bachelor,High,1,1,1,Low,Low,High
+16,Female,Bachelor,High,1,1,1,High,Medium,High
+18,Female,High School,High,1,0,0,Medium,Medium,High
+16,Male,High School,High,0,1,1,High,High,High
+15,Female,PhD,Medium,1,1,0,High,Medium,High
+17,Male,Bachelor,Low,1,0,1,Medium,Low,High
+16,Male,High School,High,1,1,0,Medium,Medium,High
+18,Male,Bachelor,Medium,1,1,0,Low,Medium,High
+15,Male,Master,High,1,1,1,High,Medium,High
+14,Male,Master,High,0,1,0,Medium,High,High
+14,Female,Master,Low,1,1,1,High,Medium,High
+15,Female,PhD,High,1,1,0,High,Medium,High
+18,Female,Bachelor,Low,1,0,0,Medium,High,High
+15,Male,Master,Low,0,1,1,Low,High,High
+17,Male,High School,Low,1,1,0,High,High,High
+17,Male,Master,Medium,1,1,0,Medium,High,High
+14,Female,Master,Medium,1,0,0,Low,Low,Medium
+16,Male,Master,Low,1,1,1,High,Low,High
+18,Female,PhD,High,1,0,1,Medium,Medium,High
+14,Female,High School,Low,0,1,1,High,Low,High
+16,Male,Bachelor,High,1,0,0,Medium,Medium,High
+16,Male,High School,Low,1,0,0,Medium,Low,High
+17,Female,Bachelor,High,1,1,0,High,High,High
+13,Male,PhD,Medium,1,0,1,High,High,High
+13,Female,PhD,High,1,1,0,Medium,Low,High
+15,Male,PhD,Low,1,1,1,Low,Low,High
+17,Male,PhD,Medium,0,1,0,High,Medium,High
+16,Female,Bachelor,High,1,0,1,Medium,Medium,High
+18,Male,Master,High,1,0,1,Medium,Medium,High
+13,Female,Bachelor,High,1,1,1,Low,High,High
+16,Male,High School,High,0,1,0,Low,High,Medium
+13,Female,PhD,High,1,1,0,Low,High,High
+13,Female,PhD,Medium,1,1,0,High,High,High
+13,Male,High School,Medium,0,0,0,Medium,Medium,Medium
+18,Female,Bachelor,Medium,1,1,0,Medium,High,High
+17,Male,Master,Medium,0,1,1,Medium,High,High
+18,Male,Master,Low,1,0,0,Low,High,High
+14,Male,High School,Medium,0,0,1,Medium,High,Medium
+16,Female,Master,High,0,1,1,High,Low,High
+17,Female,Bachelor,High,1,0,0,Low,Medium,Medium
+17,Male,Bachelor,Medium,1,0,1,Low,Medium,High
+17,Male,High School,High,1,1,0,Low,High,High
+17,Female,Bachelor,Medium,0,0,0,Low,Low,Medium
+18,Male,PhD,High,1,0,0,High,Medium,High
+17,Male,High School,Low,1,1,1,Medium,Medium,High
+15,Female,Bachelor,Low,1,1,0,High,High,High
+16,Male,High School,Medium,1,1,0,Medium,High,High
+17,Female,Master,Medium,1,1,1,High,Medium,High
+16,Male,Bachelor,Medium,1,1,0,Low,Medium,High
+15,Female,PhD,High,1,1,1,Low,Low,High
+15,Male,Bachelor,Medium,0,0,1,High,Medium,High
+16,Male,High School,Low,1,1,1,High,Medium,High
+13,Female,High School,High,1,1,0,Medium,High,High
+14,Male,Bachelor,Medium,1,0,0,High,Medium,High
+13,Female,PhD,High,0,0,0,High,High,High
+13,Male,PhD,High,1,1,0,Medium,Medium,High
+18,Female,PhD,Medium,0,0,0,Medium,Medium,High
+13,Female,High School,High,1,0,0,Medium,Medium,Medium
+17,Female,Bachelor,Low,1,1,1,High,Low,High
+18,Female,Master,Low,0,1,1,Medium,High,High
+18,Male,High School,High,1,1,0,Low,Low,High
+15,Male,PhD,Medium,1,0,0,Low,Medium,High
+13,Female,Bachelor,High,1,0,0,Low,Low,Medium
+15,Female,PhD,Low,1,1,0,High,High,High
+16,Female,Master,High,1,1,1,Low,Medium,High
+14,Male,PhD,High,0,0,1,High,Low,High
+18,Male,PhD,Low,1,1,1,High,Low,High
+16,Male,Master,High,1,0,1,Low,High,High
+16,Male,Bachelor,High,1,1,1,Medium,Low,High
+17,Female,High School,Medium,1,1,1,High,High,High
+14,Female,Bachelor,Medium,1,1,0,Low,Medium,High
+16,Female,Master,Low,1,1,1,High,Medium,High
+16,Male,PhD,Low,1,0,0,Medium,Low,High
+14,Male,Bachelor,Low,0,1,0,Medium,Medium,High
+14,Male,High School,Medium,1,1,0,Low,Medium,Medium
+16,Female,Master,Low,1,0,0,High,Low,High
+14,Female,Bachelor,Low,1,1,1,High,Medium,High
+16,Male,High School,Low,1,0,0,High,Low,High
+16,Female,Master,Medium,1,1,0,High,High,High
+17,Male,High School,High,0,1,0,Low,High,Medium
+13,Male,Master,Low,1,1,1,Medium,High,High
+16,Female,PhD,High,1,0,0,Low,Low,High
+15,Male,Bachelor,Low,1,1,1,High,Low,High
+18,Female,High School,High,0,1,1,High,Medium,High
+13,Male,Master,Medium,0,1,1,Medium,Medium,High
+13,Female,High School,Medium,0,0,1,High,Medium,High
+13,Female,High School,Low,1,1,0,Low,Medium,Medium
+17,Female,Bachelor,High,0,1,0,Low,Medium,Medium
+16,Male,PhD,Medium,1,0,1,Medium,Low,High
+17,Male,High School,Low,1,0,0,Low,Low,Medium
+16,Female,Master,Low,0,1,0,Low,High,High
+17,Female,Master,Medium,1,1,1,Low,High,High
+17,Male,PhD,Medium,1,0,0,Low,High,High
+18,Male,Master,Low,1,0,1,High,High,High
+15,Male,PhD,High,1,0,0,Low,Low,High
+17,Female,Master,High,1,1,1,Medium,Low,High
+18,Male,Bachelor,High,1,1,1,Medium,Low,High
+14,Male,High School,Low,1,1,1,Low,Medium,High
+15,Female,Bachelor,Medium,1,1,0,Medium,Medium,High
+17,Male,High School,Low,0,1,1,Low,High,High
+13,Male,High School,Medium,1,0,1,Medium,Medium,High
+14,Male,High School,High,1,0,0,Medium,Low,Medium
+14,Female,Bachelor,High,1,0,0,Low,High,Medium
+18,Female,High School,Medium,0,1,1,Low,High,High
+14,Female,Bachelor,Medium,1,1,1,High,Medium,High
+15,Female,PhD,Low,0,0,0,Low,High,Medium
+17,Female,Master,High,1,0,1,Low,Medium,High
+17,Female,Master,Low,1,1,0,High,Medium,High
+13,Female,High School,Low,0,1,0,Low,High,Medium
+18,Male,Bachelor,Low,1,0,1,Low,Medium,High
+13,Male,Master,High,1,1,1,High,Medium,High
+14,Female,Bachelor,Low,1,1,1,Low,Medium,High
+13,Male,Bachelor,Low,1,0,1,Low,Medium,High
+15,Male,High School,Low,0,1,0,High,High,High
+17,Female,Master,Low,0,0,0,High,Low,High
+14,Male,High School,Low,1,1,0,Medium,Low,High
+13,Male,High School,Low,1,1,1,Low,Medium,High
+18,Male,Master,High,0,1,1,Medium,Medium,High
+15,Male,Master,Low,1,1,0,Medium,Medium,High
+15,Male,PhD,Medium,1,0,0,High,Low,High
+13,Female,PhD,Low,1,1,0,Low,Medium,High
+17,Female,Bachelor,Low,1,1,1,Low,High,High
+13,Female,Master,High,1,1,0,High,High,High
+14,Male,PhD,High,1,1,0,Medium,High,High
+13,Female,Bachelor,Medium,1,1,1,High,Low,High
+15,Male,Bachelor,Medium,1,1,1,Low,Medium,High
+13,Male,Bachelor,High,0,0,1,High,Medium,High
+17,Male,PhD,High,0,1,1,Low,Medium,High
+18,Male,Master,Low,1,1,0,Medium,Low,High
+16,Female,High School,High,1,1,1,Low,Low,High
+13,Female,Bachelor,Medium,1,1,1,Medium,Low,High
+17,Male,PhD,Low,1,0,1,Medium,Low,High
+17,Female,PhD,Medium,1,0,0,Low,High,High
+18,Male,High School,Low,1,1,0,Low,Low,High
+15,Female,High School,High,1,1,0,Medium,Low,High
+17,Female,PhD,Medium,1,0,0,High,Low,High
+17,Male,Master,Low,1,1,1,Low,Medium,High
+17,Female,High School,Low,1,0,0,Medium,Medium,High
+17,Male,PhD,High,0,1,0,Medium,Medium,High
+14,Female,High School,High,1,1,0,High,High,High
+14,Male,Master,High,1,0,0,Low,High,Medium
+15,Male,Bachelor,Medium,1,0,0,Medium,Low,High
+13,Female,High School,Low,1,0,0,High,Medium,High
+17,Female,Master,High,1,1,0,Medium,High,High
+18,Male,PhD,Medium,0,0,1,Low,Medium,High
+13,Female,High School,Medium,1,0,1,High,High,High
+18,Female,High School,Medium,1,1,0,Medium,High,High
+13,Male,PhD,High,0,1,1,High,Low,High
+15,Male,Bachelor,High,0,1,1,Low,Low,High
+17,Female,PhD,Low,1,1,1,High,High,High
+17,Male,High School,Low,0,0,0,Low,Low,Low
+16,Male,PhD,High,0,1,0,Medium,High,High
+18,Male,Master,Medium,0,1,0,Low,High,High
+13,Female,PhD,Medium,1,1,0,Medium,Medium,High
+13,Female,High School,Medium,1,0,0,Medium,Low,Medium
+14,Male,PhD,Low,1,1,1,Low,Low,High
+16,Female,Bachelor,Medium,1,1,0,Medium,Low,High
+14,Male,PhD,Low,1,1,0,High,Medium,High
+14,Female,Bachelor,Low,1,0,1,Medium,Medium,High
+14,Male,Master,Medium,1,0,0,Low,Medium,Medium
+18,Male,Bachelor,Medium,1,0,1,High,Low,High
+18,Female,PhD,High,1,0,1,High,Low,High
+15,Male,High School,High,1,1,1,Medium,Low,High
+15,Female,Bachelor,Medium,0,0,1,Medium,Medium,High
+14,Female,Master,Low,1,1,0,Low,Medium,High
+16,Male,Bachelor,Low,1,0,1,High,High,High
+13,Male,Bachelor,Low,1,0,1,Low,Medium,High
+18,Female,Bachelor,Low,0,1,1,Medium,High,High
+16,Male,Master,Low,1,0,0,High,Low,High
+17,Male,PhD,High,1,1,1,Low,Medium,High
+18,Male,Bachelor,Medium,1,1,0,Low,Low,High
+18,Male,Bachelor,High,1,0,1,Low,Low,High
+15,Male,High School,Low,1,0,0,Low,Low,Medium
+13,Female,Master,Low,1,0,1,Low,Low,High
+13,Female,Bachelor,Low,1,0,1,High,Medium,High
+17,Male,Master,Low,0,0,0,Low,Low,Medium
+17,Male,Bachelor,Medium,1,0,0,High,High,High
+18,Male,PhD,Low,1,0,0,Low,Medium,High
+14,Female,PhD,Medium,1,1,1,Medium,Low,High
+15,Male,Bachelor,Low,1,1,1,Medium,Medium,High
+15,Female,PhD,Medium,1,1,1,Low,High,High
+18,Female,Bachelor,High,1,0,1,Medium,Low,High
+16,Female,PhD,Low,1,0,1,High,High,High
+14,Male,High School,Medium,1,1,0,Low,Low,Medium
+18,Female,High School,High,1,1,0,High,High,High
+14,Male,High School,Low,1,1,1,Low,Low,High
+14,Female,Master,Low,0,0,0,Medium,Medium,Medium
+14,Male,Master,Low,1,1,0,High,Low,High
+18,Female,High School,Medium,1,1,0,Medium,Medium,High
+15,Male,Master,Medium,1,0,0,Medium,Low,High
+15,Female,PhD,High,1,1,1,Low,Low,High
+14,Male,Bachelor,Medium,1,1,0,High,High,High
+16,Male,Bachelor,Medium,1,0,1,Medium,High,High
+13,Male,Bachelor,Low,1,0,0,Low,High,Medium
+18,Male,High School,Low,0,1,0,Low,Low,Medium
+13,Female,Master,Low,0,1,0,Low,Low,Medium
+16,Female,PhD,Low,0,0,1,Medium,Low,High
+18,Male,PhD,Low,1,0,1,Low,Medium,High
+14,Female,High School,Low,1,0,1,High,Medium,High
+15,Male,PhD,Low,1,1,1,High,Low,High
+13,Male,PhD,High,1,0,1,Medium,High,High
+17,Female,PhD,High,1,1,1,High,High,High
+17,Male,PhD,High,0,0,1,Low,High,High
+16,Male,Master,High,1,0,1,Medium,Low,High
+14,Female,PhD,Low,1,1,0,Low,High,High
+13,Male,Bachelor,High,0,1,1,Medium,Low,High
+14,Male,High School,Low,0,1,1,Medium,Medium,High
+13,Male,Master,High,0,1,1,Low,High,High
+16,Male,PhD,Medium,0,1,0,High,Medium,High
+16,Female,Master,High,1,0,1,High,High,High
+17,Female,PhD,High,0,1,1,Medium,Low,High
+14,Female,Bachelor,Low,1,0,0,Low,Low,Medium
+18,Male,High School,High,1,1,1,Low,Low,High
+17,Male,PhD,Medium,1,1,0,Medium,Low,High
+14,Female,PhD,Low,1,0,0,High,High,High
+17,Male,PhD,Low,1,1,0,Low,Medium,High
+18,Male,PhD,High,1,0,0,High,Low,High
+15,Male,High School,Low,1,0,1,High,High,High
+15,Male,High School,Low,0,1,0,Medium,Medium,Medium
+15,Female,Bachelor,Low,1,0,0,Medium,Low,High
+15,Female,High School,Low,0,1,0,High,Medium,High
+13,Female,PhD,Low,1,0,0,Low,Low,High
+15,Male,Bachelor,Low,0,0,0,Low,Medium,Low
+18,Female,Bachelor,Medium,1,0,1,Medium,Medium,High
+16,Female,Bachelor,High,1,0,0,High,Low,High
+16,Male,PhD,Medium,1,1,1,Low,High,High
+13,Male,Master,Low,1,1,1,Low,Medium,High
+15,Female,PhD,Low,1,1,0,Medium,Low,High
+15,Female,High School,High,0,1,1,High,Medium,High
+15,Female,High School,Medium,1,0,0,Low,Medium,Medium
+17,Female,PhD,High,1,1,0,Medium,High,High
+14,Male,PhD,Medium,1,0,0,Low,Medium,High
+17,Female,Bachelor,Low,1,0,0,Low,Medium,Medium
+14,Female,PhD,High,1,1,1,Low,Low,High
+15,Male,Bachelor,High,1,0,1,Medium,Low,High
+15,Female,High School,Low,1,0,0,High,High,High
+17,Male,Bachelor,High,0,1,1,Medium,Medium,High
+17,Male,PhD,Medium,0,1,0,High,Medium,High
+14,Male,High School,Medium,0,1,1,Low,Medium,Medium
+16,Female,Master,Medium,1,0,0,High,High,High
+14,Female,Bachelor,Medium,1,0,0,Low,Medium,Medium
+17,Male,High School,Low,1,1,0,Low,Low,High
+18,Female,Bachelor,High,1,0,0,Medium,High,High
+17,Female,High School,Medium,1,1,1,Low,Low,High
+18,Male,High School,Low,1,0,1,Medium,Low,High
+13,Male,Bachelor,High,1,1,0,High,High,High
+17,Female,Master,High,0,0,1,High,Low,High
+13,Male,High School,Low,0,1,1,Low,Medium,Medium
+16,Female,High School,Low,1,1,1,Medium,High,High
+14,Female,High School,Medium,1,1,0,Low,Low,Medium
+18,Female,Master,High,1,0,0,Medium,Medium,High
+14,Female,Master,High,1,1,1,Medium,Medium,High
+13,Male,PhD,Low,1,1,1,Medium,Low,High
+18,Male,Bachelor,High,0,0,0,High,Medium,High
+14,Male,Master,Medium,0,1,0,Medium,High,High
+17,Male,Bachelor,High,1,0,0,High,Low,High
+15,Female,PhD,Low,1,0,1,Medium,Medium,High
+13,Female,Bachelor,Low,1,1,1,High,Medium,High
+14,Male,Master,Medium,1,0,0,High,Low,High
+13,Female,Bachelor,Medium,1,1,1,High,Low,High
+13,Female,Master,High,1,0,1,Low,Low,High
+18,Female,Bachelor,High,1,1,1,Medium,Low,High
+18,Male,Master,Low,1,1,1,Low,High,High
+15,Male,Master,Medium,1,1,1,Medium,Low,High
+17,Male,Bachelor,Medium,1,0,0,Medium,High,High
+13,Female,PhD,Medium,1,0,1,Low,High,High
+14,Male,High School,High,0,1,0,High,Low,High
+16,Male,PhD,Medium,1,0,0,Medium,High,High
+13,Male,Bachelor,Low,1,0,0,High,Low,High
+13,Male,PhD,Low,1,1,0,Low,Low,High
+15,Male,Master,High,1,1,0,High,Medium,High
+17,Male,High School,High,1,1,0,Medium,Low,High
+16,Female,Bachelor,Medium,1,0,1,Medium,Medium,High
+18,Female,Bachelor,High,1,0,0,Medium,High,High
+18,Male,Bachelor,Low,0,0,1,Low,Medium,Medium
+14,Male,High School,Medium,1,1,0,Medium,High,High
+16,Female,Master,Low,1,1,1,Low,Low,High
+18,Female,Bachelor,Medium,1,1,1,High,High,High
+14,Male,PhD,High,1,1,0,Medium,High,High
+17,Male,Bachelor,Medium,1,1,1,Medium,Low,High
+14,Male,Bachelor,Medium,1,1,1,Medium,High,High
+18,Male,Bachelor,Low,1,0,1,High,Low,High
+15,Female,Bachelor,Low,1,1,1,Medium,Medium,High
+15,Male,Master,Medium,0,1,1,Low,Low,High
+15,Male,PhD,High,1,1,1,High,Low,High
+18,Male,Master,High,1,1,0,High,High,High
+15,Male,PhD,Low,1,1,0,High,Medium,High
+16,Female,Bachelor,High,0,1,1,High,Low,High
+17,Female,High School,Low,1,1,0,High,Medium,High
+14,Female,Master,High,1,1,0,Low,Medium,High
+14,Male,High School,Medium,0,0,0,High,High,Medium
+18,Male,Master,Low,1,0,0,Medium,Low,High
+15,Female,Bachelor,Low,1,1,1,High,High,High
+15,Male,Master,Medium,1,1,0,High,Low,High
+13,Male,Bachelor,Low,1,0,0,High,Medium,High
+17,Female,Master,High,1,1,1,High,Low,High
+16,Female,Bachelor,High,1,0,1,High,Low,High
+14,Female,Bachelor,Low,1,0,0,Low,Medium,Medium
+13,Female,PhD,High,0,1,0,Low,Medium,High
+13,Male,Bachelor,Low,0,0,1,High,Low,High
+18,Male,PhD,Medium,1,0,1,Low,High,High
+14,Female,Bachelor,Low,0,0,0,Medium,Low,Medium
+18,Male,High School,Medium,1,1,0,High,Medium,High
+16,Female,Bachelor,High,1,1,0,Medium,High,High
+13,Female,High School,Medium,1,1,0,Medium,Medium,High
+13,Male,High School,High,1,1,0,High,Medium,High
+17,Female,Bachelor,Low,1,0,1,Medium,High,High
+16,Male,High School,High,1,1,0,Medium,Medium,High
+13,Male,PhD,Low,1,0,1,Medium,Medium,High
+16,Male,Master,Low,0,1,0,High,Medium,High
+14,Male,Bachelor,Medium,1,1,1,High,Medium,High
+15,Female,High School,Medium,1,1,1,Medium,Medium,High
+13,Male,Bachelor,Medium,1,0,0,High,Medium,High
+17,Female,PhD,Medium,1,1,1,High,Medium,High
+14,Female,Bachelor,High,0,0,0,Medium,Medium,Medium
+16,Female,Bachelor,High,1,0,1,High,Medium,High
+18,Female,High School,High,1,1,1,Low,Low,High
+14,Male,PhD,Low,1,0,0,High,Low,High
+13,Male,Master,High,1,1,0,Low,Medium,High
+16,Female,Master,High,1,0,0,Medium,Low,High
+15,Female,High School,High,1,0,1,High,High,High
+14,Male,Bachelor,Medium,1,1,0,Medium,Low,High
+13,Female,High School,High,1,1,0,Medium,Medium,High
+17,Male,High School,Low,1,1,0,Medium,Medium,High
+18,Female,High School,Medium,0,1,0,Medium,Low,High
+16,Male,Bachelor,Low,1,1,1,Medium,Medium,High
+14,Female,PhD,High,1,0,0,High,High,High
+14,Female,High School,Medium,1,1,1,Low,High,High
+15,Male,Bachelor,Low,1,1,0,High,Medium,High
+15,Female,PhD,High,1,1,0,High,High,High
+17,Female,High School,Low,1,1,1,High,High,High
+18,Male,Master,Low,1,1,1,High,Low,High
+17,Female,PhD,Low,1,1,1,Low,High,High
+13,Male,High School,High,0,1,0,High,Low,High
+13,Male,PhD,High,0,0,0,Medium,Medium,High
+17,Female,PhD,Low,1,0,1,High,Low,High
+18,Female,PhD,Medium,0,1,0,High,Medium,High
+17,Female,PhD,Medium,0,0,0,Low,Medium,Medium
+18,Female,PhD,High,1,1,1,Low,Medium,High
+18,Female,PhD,High,1,0,1,Medium,Medium,High
+16,Female,High School,High,1,1,1,High,Medium,High
+18,Female,Master,High,0,0,1,High,Low,High
+15,Male,Bachelor,High,1,0,1,High,Medium,High
+18,Female,PhD,Medium,0,1,0,Medium,High,High
+18,Male,Bachelor,High,1,1,0,Low,High,High
+18,Female,High School,Low,1,1,1,Medium,Medium,High
+13,Female,PhD,Low,1,1,1,High,High,High
+15,Male,Master,Medium,1,1,0,Low,Low,High
+15,Female,Bachelor,Low,0,1,0,Low,Low,Medium
+17,Female,PhD,Medium,1,1,0,Medium,Medium,High
+16,Male,High School,Medium,1,0,1,Low,Medium,High
+18,Female,Master,Low,1,1,0,Low,Medium,High
+14,Female,Bachelor,High,0,1,0,High,High,High
+16,Female,Bachelor,Low,1,1,1,High,High,High
+16,Male,PhD,Low,1,0,1,Low,Low,High
+15,Female,Master,Medium,1,1,0,Low,High,High
+16,Female,Master,Low,1,1,1,Medium,Low,High
+18,Female,Master,Medium,1,1,1,Medium,High,High
+18,Female,Master,High,1,0,0,Low,Low,High
+13,Male,High School,High,1,1,0,High,Medium,High
+18,Male,Master,High,1,0,0,Low,High,High
+18,Female,Bachelor,Low,1,0,0,Low,Low,Medium
+15,Female,Bachelor,Medium,1,1,1,High,High,High
+18,Male,High School,High,1,1,0,High,Medium,High
+13,Male,Bachelor,Medium,1,1,1,Medium,Low,High
+14,Female,Bachelor,Medium,1,1,0,Medium,High,High

@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-gradient-primary">
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                <i class="fas fa-chart-line"></i> Adolescent Health Analytics
+            </a>
+        </div>
+    </nav>
+
+    <div class="container mt-5 mb-5">
+        <!-- Result Header -->
+        <div class="text-center mb-5">
+            <h1 class="display-4 mb-3">
+                <i class="fas fa-clipboard-check text-success"></i> Prediction Result
+            </h1>
+            <p class="lead text-muted">AI-powered analysis of adolescent health concerns</p>
+        </div>
+
+        <!-- Prediction Card -->
+        <div class="row justify-content-center mb-4">
+            <div class="col-lg-8">
+                <div class="card shadow-lg border-0">
+                    <div class="card-body text-center p-5">
+                        <h2 class="mb-3">Predicted Concern Level</h2>
+                        <div class="prediction-badge prediction-{{ prediction.lower() }} mx-auto mb-4">
+                            {% if prediction == 'High' %}
+                                <i class="fas fa-exclamation-circle"></i>
+                            {% elif prediction == 'Low' %}
+                                <i class="fas fa-check-circle"></i>
+                            {% else %}
+                                <i class="fas fa-info-circle"></i>
+                            {% endif %}
+                            {{ prediction }}
+                        </div>
+                        <div class="confidence-meter">
+                            <p class="mb-2"><strong>Confidence Level</strong></p>
+                            <div class="progress" style="height: 30px;">
+                                <div class="progress-bar bg-success" role="progressbar" 
+                                     style="width: {{ confidence }}%;" 
+                                     aria-valuenow="{{ confidence }}" aria-valuemin="0" aria-valuemax="100">
+                                    {{ "%.1f"|format(confidence) }}%
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Probability Chart -->
+        <div class="row justify-content-center mb-4">
+            <div class="col-lg-8">
+                <div class="card shadow-sm">
+                    <div class="card-header bg-light">
+                        <h5 class="mb-0"><i class="fas fa-chart-pie"></i> Prediction Probabilities</h5>
+                    </div>
+                    <div class="card-body text-center">
+                        <img src="data:image/png;base64,{{ proba_plot }}" alt="Probability Chart" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Input Summary -->
+        <div class="row justify-content-center mb-4">
+            <div class="col-lg-8">
+                <div class="card shadow-sm">
+                    <div class="card-header bg-gradient-primary text-white">
+                        <h5 class="mb-0"><i class="fas fa-list-ul"></i> Input Summary</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            {% for key, value in input_summary.items() %}
+                            <div class="col-md-6 mb-3">
+                                <div class="input-summary-item">
+                                    <span class="text-muted">{{ key }}:</span>
+                                    <strong class="ml-2">{{ value }}</strong>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SHAP Explanation -->
+        <div class="row justify-content-center mb-4">
+            <div class="col-lg-8">
+                <div class="card shadow-sm">
+                    <div class="card-header bg-light">
+                        <h5 class="mb-0">
+                            <i class="fas fa-brain"></i> AI Explanation (SHAP Analysis)
+                        </h5>
+                        <small class="text-muted">Top 5 features influencing this prediction</small>
+                    </div>
+                    <div class="card-body">
+                        <div class="shap-container">
+                            {% for feature, weight in shap_exp %}
+                            <div class="shap-item">
+                                <div class="shap-feature">
+                                    <i class="fas fa-arrow-right text-primary"></i>
+                                    <strong>{{ feature }}</strong>
+                                </div>
+                                <div class="shap-value">
+                                    <span class="badge {% if weight > 0 %}badge-success{% else %}badge-danger{% endif %}">
+                                        {{ "%.4f"|format(weight) }}
+                                    </span>
+                                    <div class="progress mt-2" style="height: 20px;">
+                                        <div class="progress-bar {% if weight > 0 %}bg-success{% else %}bg-danger{% endif %}" 
+                                             role="progressbar" 
+                                             style="width: {{ (weight|abs / shap_exp[0][1]|abs * 100)|round }}%">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                        <div class="alert alert-info mt-4">
+                            <i class="fas fa-info-circle"></i>
+                            <strong>How to interpret:</strong> Positive values (green) push the prediction towards the predicted class, 
+                            while negative values (red) push away from it. The magnitude indicates the strength of influence.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="row justify-content-center">
+            <div class="col-lg-8 text-center">
+                <a href="/" class="btn btn-primary btn-lg px-5">
+                    <i class="fas fa-arrow-left"></i> Back to Dashboard
+                </a>
+                <button onclick="window.print()" class="btn btn-outline-secondary btn-lg px-5 ml-2">
+                    <i class="fas fa-print"></i> Print Report
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer mt-5 py-4 bg-dark text-white">
+        <div class="container text-center">
+            <p class="mb-0">&copy; 2025 Adolescent Health Analytics. Powered by Machine Learning.</p>
+        </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
