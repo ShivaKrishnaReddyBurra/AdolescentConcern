@@ -25,6 +25,7 @@ This repository contains a synthetic dataset and a trained model to predict adol
   - `joblib`
   - `flask`
   - `matplotlib`
+  - `seaborn`
 
 Install dependencies via pip:
 ```bash
@@ -52,16 +53,12 @@ pip install pandas scikit-learn imbalanced-learn xgboost shap joblib flask matpl
    │   └── predict.html
    └── README.md
    ```
-
-3. **Generate Dummy Data** (if not included):
-   - Use the data generation script provided in the repository or ensure `dummy_adolescent_concern_dataset.csv` is present.
-
 ## Usage
 
 ### 1. Train the Model
 - Run the training script to build and save the model:
   ```bash
-  python train_model.py
+  python model.py
   ```
 - **Output**: Displays accuracy, F1 score, global feature importances, SHAP explanations, and saves the model as `model.pkl`.
 
