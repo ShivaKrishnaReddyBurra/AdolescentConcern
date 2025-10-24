@@ -17,7 +17,7 @@ plt.style.use('seaborn-v0_8-darkgrid')
 sns.set_palette("husl")
 
 # Load data and model
-data = pd.read_csv('dummy_adolescent_concern_dataset.csv')
+data = pd.read_csv('adolescent_concern_dataset.csv')
 stacking_clf = joblib.load('model.pkl')
 
 # Encode for consistency

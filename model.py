@@ -16,7 +16,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Load and prepare data
-data = pd.read_csv('dummy_adolescent_concern_dataset.csv')
+data = pd.read_csv('adolescent_concern_dataset.csv')
 
 # Encode categorical features
 categorical_cols = ['Gender', 'Parental_Education', 'Ad_Exposure_Freq', 'Health_Knowledge', 'Parental_Influence', 'Concern_Level']
